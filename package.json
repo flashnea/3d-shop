@@ -12,6 +12,7 @@
   "react": "^18.2.0",
   "react-dom": "^18.2.0",
   "stripe": "^14.0.0",
-  "micro": "^9.4.1"
+  "micro": "^9.4.1",
+  "@supabase/supabase-js": "^2.43.0"
 }
 }
